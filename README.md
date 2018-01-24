@@ -3,6 +3,9 @@ Congrats to myself! After I've started learning the basics of html and css 2 wee
 
 For smooth scrolling I worked with JavaScript and the help of 1-2 tutorials from Youtube.
 
+# About the Project
+In general I'm a big fan of outstanding designs. So my first website should have been something that points with its look - I think its pretty cool. As a placeholder product I used the new iPhone X. Pictures and Icons are from unsplash.com and flaticon.com - both are awesome ressources for high resolution pictures and icons.
+
 Revolution was built without any frameworks.
 
 # Important
